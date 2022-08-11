@@ -16,7 +16,7 @@ Training vision-language models with image-text pairs co-occurrent on the Intern
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./pics/itro.png" align="center" width="500" ></td>
+    <td class="tg-c3ow"><img src="/pics/itro.png" align="center" width="500" ></td>
   </tr>
 </table>
 </p>
