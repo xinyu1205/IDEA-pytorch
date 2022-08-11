@@ -1,0 +1,8 @@
+ruamel.base==1.0.0
+ruamel_yaml==0.17.21
+tensorflow==2.9.1
+tensorflow_gpu==2.1.0
+tqdm==4.46.1
+torch>=1.8.0
+timm==0.4.9
+transformers==4.8.1
