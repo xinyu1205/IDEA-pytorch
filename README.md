@@ -1,4 +1,4 @@
-# IDEA: Increasing Text Diversity via Online Multi-Label Recognition for Vision-Language Pre-training
+# IDEA: Increasing Text Diversity via Online Multi-Label Recognition for Vision-Language Pre-training (ACM MM2022)
 
 ## Introduction
 
