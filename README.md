@@ -67,9 +67,10 @@ python evaluation.py --checkpoint_path {path to model for evaluation} --dataset 
 ## Citation
 If you find this repository to be useful for your research, please consider citing.
 ```
-@article{huang2022idea,
+@inproceedings{huang2022idea,
   title={IDEA: Increasing Text Diversity via Online Multi-Label Recognition for Vision-Language Pre-training},
   author={Huang, Xinyu and Zhang, Youcai and Cheng, Ying and Tian, Weiwei and Zhao, Ruiwei and Feng, Rui and Zhang, Yuejie and Li, Yaqian and Guo, Yandong and Zhang, Xiaobo},
-  journal={arXiv preprint arXiv:2207.05333},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={4573--4583},
   year={2022}
 }
