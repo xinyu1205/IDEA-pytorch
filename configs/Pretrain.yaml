@@ -12,7 +12,7 @@ temp: 0.07
 alpha: 0.4
 change_epoch: 1
 tau: 0.6
-class_num: 2315
+class_num: 1547
 
 optimizer: {opt: adamW, lr: 1e-4, weight_decay: 0.02}
 schedular: {sched: cosine, lr: 1e-4, epochs: 30, min_lr: 1e-5, decay_rate: 1, warmup_lr: 1e-5, warmup_epochs: 20, cooldown_epochs: 0}
